@@ -1,3 +1,5 @@
 # johnmcanearney.github.io
 
-This is for my iOS apps.
+This is just to store and show off my apps. 
+
+iOS App: Zoomdle
