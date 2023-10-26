@@ -6,7 +6,7 @@ Hi! I'm a developer from Ireland who's currently working in London as a Full Sta
 
 This is my developer site where I list my products and side projects. I'm most proud of Zoomdle which can be found [here.](https://johnmcanearney.github.io/zoomdle-pages/)
 
-</br>
+<div style="page-break-after: always;"></div>
 
 Thanks for stopping by and if you want to contact me, please use the below 
 
@@ -16,7 +16,7 @@ Thanks for stopping by and if you want to contact me, please use the below
 </a>
 [<img src="linkedin.png" width="5%" style="border-radius: 5px; box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5); background-color: #FFFFFF;">](https://www.linkedin.com/in/john-mcanearney/)
 
-</br>
+<div style="page-break-after: always;"></div>
 
 
 
