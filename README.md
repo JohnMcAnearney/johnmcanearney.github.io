@@ -2,7 +2,8 @@
 
 Hi! I'm a developer from Ireland who's currently working in London as a Full Stack Software Developer.
 
-</br>
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
 
 This is my developer site where I list my products and side projects. I'm most proud of Zoomdle which can be found [here.](https://johnmcanearney.github.io/zoomdle-pages/)
 
@@ -23,7 +24,8 @@ Thanks for stopping by and if you want to contact me, please use the below
 ## Projects
 
 
-</br>
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
 
 <img src="zoomdleCover.jpg" alt="Zoomdle Cover Photo" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);">
 
@@ -36,11 +38,13 @@ I am extremely proud of Zoomdle and the joy it brings our players.
 
 Download & find out more on Zoomdle's product page found [here.](https://johnmcanearney.github.io/zoomdle-pages/)
 
-</br>
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
 
 ---
 
-</br>
+<div style="page-break-before:always">&nbsp;</div>
+<p></p>
 
 ### Mystery iOS app - Launching 2024
 
